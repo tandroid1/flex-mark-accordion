@@ -1,4 +1,4 @@
-# Flexible Mark Accordion
+# Flexible Markup Accordion
 A simple accordion that doesn't really care what your html markup looks like!
 
 ## Example
