@@ -1,7 +1,7 @@
 !function($){
   "use strict";
 
-  $.fn.productAccordion = function(options) {
+  $.fn.fmAccordion = function(options) {
     var settings = $.extend({
       toggleSections: '',
       toggleButtons: '',
