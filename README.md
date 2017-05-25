@@ -28,7 +28,7 @@ A simple accordion that doesn't really care what your html markup looks like!
 ```javascript
 $('.myContainer').fmAccordion({
   toggleButtons: 'h3',
-  toggleSections: 'accordion'
+  toggleSections: '.accordion'
 });
 ```
 
